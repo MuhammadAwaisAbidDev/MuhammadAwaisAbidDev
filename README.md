@@ -10,7 +10,7 @@
 # 👋 Hi there, I'm Muhammad Awais Abid 
 <img src="https://komarev.com/ghpvc/?username=AbdulGaffarDev&label=Profile%20Views&color=0EA5E9&style=flat-square" align="right" />  
 
-### 🚀 Senior Full Stack Developer |React.js/Next.js/Node.js/Express.js/Typescript & MongoDB
+### 🚀 Senior Full Stack Developer |React.js/Next.js/Node.js/Express.js/Typescript &      MongoDB
 
 ---
 
