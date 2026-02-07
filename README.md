@@ -67,7 +67,13 @@ Whether you need a **high-performance MVP**, a **legacy system overhaul**, or a 
 ![Figma](https://img.shields.io/badge/Figma-E11D48?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-## **🚀 What I Deliver** 
+## **🚀 What I Deliver**
+- **SaaS Platforms:** End-to-end development from concept to deployment  
+- **High-Performance APIs:** Scalable backend systems with Nextjs/Node.js  
+- **Admin Dashboards:** Advanced analytics with React
+- **Legacy Modernization:** Refactoring and optimization  
+
+
 **Core Strengths:**  
  ✔Translating Figma designs into pixel-perfect, responsive, accessible UIs
  
