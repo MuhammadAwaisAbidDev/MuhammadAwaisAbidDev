@@ -1,19 +1,162 @@
-<h1 align="center">Hi 👋, I'm Muhammad Awais Abid</h1>
-<h3 align="center">Senior Full Stack Developer |React.js/Next.js/Node.js/Express.js/Typescript & MongoDB</h3>
+<!-- Animated Banner -->
+<div align="center" style="padding:15px; background: linear-gradient(135deg, #f9fafb, #e0f2fe); color:#0f172a;">
+<!-- Banner Typing SVG -->
+<br/><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Abdul+Gaffar+👋;React+&+Next.js+Developer+%7C+Open+Source+Enthusiast;Love+to+build+cool+web+stuff+🚀;Always+learning+something+new+💡" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadawaisabiddev&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadawaisabiddev" /> </p>
+---
 
-- 💬 Ask me about **I’m a Senior Full Stack Developer with a decade of experience turning complex ideas into scalable, user-friendly applications. My work sits at the intersection of precision engineering and practical business solutions—whether it’s building SaaS platforms that streamline operations, crafting performant APIs that power seamless integrations, or modernizing legacy systems for the future. What drives me: "Technology should serve people, not the other way around." I obsess over: Clean architecture that stands the test of time UI/UX details that make applications intuitive Performance that users feel (and metrics confirm) Communication that keeps stakeholders aligned at every step Beyond code, I bring: ✅ 10+ years of solving real-world problems across industries ✅ A consultative approach—I ask questions before writing a single line ✅ Ownership mentality—from requirements to deployment and beyond ✅ Clarity in explaining technical trade-offs to non-technical teams Whether you need a high-performance MVP, a legacy system overhaul, or a scalable backend, I’ll deliver more than working code—I’ll build a solution that grows with your business.**
+# 👋 Hi there, I'm Abdul Gaffar  
+<img src="https://komarev.com/ghpvc/?username=AbdulGaffarDev&label=Profile%20Views&color=0EA5E9&style=flat-square" align="right" />  
 
-- 📫 How to reach me **muhammadawaisabid84@gmail.com**
+### 🚀 React & Next.js Stack Developer  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+## 💡 About Me  
+
+I'm a passionate **React & Next.js Developer** with **1+ year of experience** from Pakistan 🇵🇰.  
+I love to build **new tools & technologies**, full-stack apps, and explore emerging tech.  
+
+I'm always open to **collaboration, contribution, and connecting** with like-minded developers!  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🌐 Frontend:
+![React](https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-9333EA?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-14B8A6?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ⚙️ Backend:
+![NodeJS](https://img.shields.io/badge/Node.js-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-10B981?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-B91C1C?style=for-the-badge&logo=mongoose&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-0284C7?style=for-the-badge&logo=rest&logoColor=white)
+
+### 🧪 Testing & Tools:
+![Postman](https://img.shields.io/badge/Postman-F97316?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F43F5E?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-3B82F6?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-E11D48?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+  <!-- IMPORTANT: Consider deploying private instances to avoid rate limiting -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulGaffarDev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulGaffarDev&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+---
+
+## 📊 Mostly Used Languages  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulGaffarDev&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 📂 Featured Projects  
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+  
+### 🔧 StaffVertex  
+<sub>🚀 A complete Staff Management platform built with <b>Next.js Technologies</b>.</sub>  
+<br/>
+<a href="https://staffvertex.com" target="_blank">
+  <img src="https://img.shields.io/badge/🔗 Visit%20StaffVertex-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+  
+### 💼 Portfolio Website  
+<sub>🌐 My personal <b>Portfolio Website</b> showcasing skills, projects & contact.</sub>  
+<br/>
+<a href="https://abdul-gaffar.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🔗 Visit%20Portfolio-9333EA?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🕒 Stop Watch  
+<sub>⏱️ A simple & elegant <b>Vanilla JavaScript stopwatch</b> project.</sub>  
+<br/>
+<a href="https://github.com/AbdulGaffarDev/stopwatch" target="_blank">
+  <img src="https://img.shields.io/badge/🔗 View%20Stopwatch-F97316?style=for-the-badge&logo=javascript&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 👤 GitHub User Finder  
+<sub>🔎 A React app to <b>search GitHub users</b> using GitHub API.</sub>  
+<br/>
+<a href="https://abdulgaffardev.github.io/Github-User-Finder/" target="_blank">
+  <img src="https://img.shields.io/badge/🔗 Try%20GitHub%20Finder-22C55E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+## 📬 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulgaffardev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abdulgaffar.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://abdul-gaffar.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://abdul-gaffar.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀 Connect%20Now!-FF5722?style=for-the-badge" alt="Connect Button"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadawaisabiddev&show_icons=true&locale=en" alt="muhammadawaisabiddev" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadawaisabiddev&" alt="muhammadawaisabiddev" /></p>
+## ❤️ Support My Work  
+
+If you find my work helpful, consider giving a ⭐ to my repos!  
+Most projects are built from scratch or during learning sessions — feel free to **fork, explore, or contribute**.  
+
+---
+
+<div align="center">
+
+**Thanks for visiting! 🚀**
+
+</div>
